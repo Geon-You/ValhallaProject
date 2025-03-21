@@ -80,6 +80,8 @@ AValhallaPlayerCharacter::AValhallaPlayerCharacter()
 
 	OnBoardCameraDistance = 1600.f;
 	NormalCameraDistance = 500.f;
+
+	// 깃허브 테스트
 }
 
 void AValhallaPlayerCharacter::BeginPlay()
